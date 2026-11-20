@@ -1,0 +1,2 @@
+used to add new or modified file to  the staging area repairing the for net commite
+
