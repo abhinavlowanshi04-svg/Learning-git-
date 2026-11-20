@@ -1,0 +1,2 @@
+it writen all the item in the current directory 
+
